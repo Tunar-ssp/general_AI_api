@@ -1,0 +1,187 @@
+2025-03-15 22:12:40 | INFO     | uvicorn.server:_serve:83 - Started server process [8552]
+2025-03-15 22:12:40 | INFO     | uvicorn.server:_serve:83 - Started server process [8552]
+2025-03-15 22:12:40 | INFO     | uvicorn.lifespan.on:startup:48 - Waiting for application startup.
+2025-03-15 22:12:40 | INFO     | uvicorn.lifespan.on:startup:48 - Waiting for application startup.
+2025-03-15 22:12:40 | INFO     | uvicorn.lifespan.on:startup:62 - Application startup complete.
+2025-03-15 22:12:40 | INFO     | uvicorn.lifespan.on:startup:62 - Application startup complete.
+2025-03-15 22:12:45 | INFO     | uvicorn.server:shutdown:263 - Shutting down
+2025-03-15 22:12:45 | INFO     | uvicorn.server:shutdown:263 - Shutting down
+2025-03-15 22:12:45 | INFO     | uvicorn.lifespan.on:shutdown:67 - Waiting for application shutdown.
+2025-03-15 22:12:45 | INFO     | uvicorn.lifespan.on:shutdown:67 - Waiting for application shutdown.
+2025-03-15 22:12:45 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2025-03-15 22:12:45 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2025-03-15 22:12:45 | INFO     | uvicorn.server:_serve:93 - Finished server process [8552]
+2025-03-15 22:12:45 | INFO     | uvicorn.server:_serve:93 - Finished server process [8552]
+2025-03-15 22:12:47 | INFO     | uvicorn.server:_serve:83 - Started server process [9436]
+2025-03-15 22:12:47 | INFO     | uvicorn.server:_serve:83 - Started server process [9436]
+2025-03-15 22:12:47 | INFO     | uvicorn.lifespan.on:startup:48 - Waiting for application startup.
+2025-03-15 22:12:47 | INFO     | uvicorn.lifespan.on:startup:48 - Waiting for application startup.
+2025-03-15 22:12:47 | INFO     | uvicorn.lifespan.on:startup:62 - Application startup complete.
+2025-03-15 22:12:47 | INFO     | uvicorn.lifespan.on:startup:62 - Application startup complete.
+2025-03-15 22:14:14 | INFO     | uvicorn.server:shutdown:263 - Shutting down
+2025-03-15 22:14:14 | INFO     | uvicorn.server:shutdown:263 - Shutting down
+2025-03-15 22:14:14 | INFO     | uvicorn.lifespan.on:shutdown:67 - Waiting for application shutdown.
+2025-03-15 22:14:14 | INFO     | uvicorn.lifespan.on:shutdown:67 - Waiting for application shutdown.
+2025-03-15 22:14:14 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2025-03-15 22:14:14 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2025-03-15 22:14:14 | INFO     | uvicorn.server:_serve:93 - Finished server process [9436]
+2025-03-15 22:14:14 | INFO     | uvicorn.server:_serve:93 - Finished server process [9436]
+2025-03-15 22:14:15 | INFO     | uvicorn.server:_serve:83 - Started server process [9840]
+2025-03-15 22:14:15 | INFO     | uvicorn.server:_serve:83 - Started server process [9840]
+2025-03-15 22:14:15 | INFO     | uvicorn.lifespan.on:startup:48 - Waiting for application startup.
+2025-03-15 22:14:15 | INFO     | uvicorn.lifespan.on:startup:48 - Waiting for application startup.
+2025-03-15 22:14:15 | INFO     | uvicorn.lifespan.on:startup:62 - Application startup complete.
+2025-03-15 22:14:15 | INFO     | uvicorn.lifespan.on:startup:62 - Application startup complete.
+2025-03-15 22:14:27 | INFO     | uvicorn.server:shutdown:263 - Shutting down
+2025-03-15 22:14:27 | INFO     | uvicorn.server:shutdown:263 - Shutting down
+2025-03-15 22:14:27 | INFO     | uvicorn.lifespan.on:shutdown:67 - Waiting for application shutdown.
+2025-03-15 22:14:27 | INFO     | uvicorn.lifespan.on:shutdown:67 - Waiting for application shutdown.
+2025-03-15 22:14:27 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2025-03-15 22:14:27 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2025-03-15 22:14:27 | INFO     | uvicorn.server:_serve:93 - Finished server process [9840]
+2025-03-15 22:14:27 | INFO     | uvicorn.server:_serve:93 - Finished server process [9840]
+2025-03-15 22:14:28 | INFO     | uvicorn.server:_serve:83 - Started server process [23848]
+2025-03-15 22:14:28 | INFO     | uvicorn.server:_serve:83 - Started server process [23848]
+2025-03-15 22:14:28 | INFO     | uvicorn.lifespan.on:startup:48 - Waiting for application startup.
+2025-03-15 22:14:28 | INFO     | uvicorn.lifespan.on:startup:48 - Waiting for application startup.
+2025-03-15 22:14:28 | INFO     | uvicorn.lifespan.on:startup:62 - Application startup complete.
+2025-03-15 22:14:28 | INFO     | uvicorn.lifespan.on:startup:62 - Application startup complete.
+2025-03-15 22:14:42 | ERROR    | app.cache.redis:get:28 - Error getting key response:53e3453de66c4233c1d6b83e41cabe98 from Redis: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-03-15 22:17:27 | INFO     | uvicorn.server:shutdown:263 - Shutting down
+2025-03-15 22:17:27 | INFO     | uvicorn.server:shutdown:263 - Shutting down
+2025-03-15 22:17:27 | INFO     | uvicorn.lifespan.on:shutdown:67 - Waiting for application shutdown.
+2025-03-15 22:17:27 | INFO     | uvicorn.lifespan.on:shutdown:67 - Waiting for application shutdown.
+2025-03-15 22:17:27 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2025-03-15 22:17:27 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2025-03-15 22:17:27 | INFO     | uvicorn.server:_serve:93 - Finished server process [23848]
+2025-03-15 22:17:27 | INFO     | uvicorn.server:_serve:93 - Finished server process [23848]
+2025-03-15 22:17:28 | INFO     | uvicorn.server:_serve:83 - Started server process [23208]
+2025-03-15 22:17:28 | INFO     | uvicorn.server:_serve:83 - Started server process [23208]
+2025-03-15 22:17:28 | INFO     | uvicorn.lifespan.on:startup:48 - Waiting for application startup.
+2025-03-15 22:17:28 | INFO     | uvicorn.lifespan.on:startup:48 - Waiting for application startup.
+2025-03-15 22:17:28 | INFO     | uvicorn.lifespan.on:startup:62 - Application startup complete.
+2025-03-15 22:17:28 | INFO     | uvicorn.lifespan.on:startup:62 - Application startup complete.
+2025-03-15 22:17:42 | INFO     | uvicorn.server:shutdown:263 - Shutting down
+2025-03-15 22:17:42 | INFO     | uvicorn.server:shutdown:263 - Shutting down
+2025-03-15 22:17:43 | INFO     | uvicorn.lifespan.on:shutdown:67 - Waiting for application shutdown.
+2025-03-15 22:17:43 | INFO     | uvicorn.lifespan.on:shutdown:67 - Waiting for application shutdown.
+2025-03-15 22:17:43 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2025-03-15 22:17:43 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2025-03-15 22:17:43 | INFO     | uvicorn.server:_serve:93 - Finished server process [23208]
+2025-03-15 22:17:43 | INFO     | uvicorn.server:_serve:93 - Finished server process [23208]
+2025-03-15 22:17:44 | INFO     | uvicorn.server:_serve:83 - Started server process [10988]
+2025-03-15 22:17:44 | INFO     | uvicorn.server:_serve:83 - Started server process [10988]
+2025-03-15 22:17:44 | INFO     | uvicorn.lifespan.on:startup:48 - Waiting for application startup.
+2025-03-15 22:17:44 | INFO     | uvicorn.lifespan.on:startup:48 - Waiting for application startup.
+2025-03-15 22:17:44 | INFO     | uvicorn.lifespan.on:startup:62 - Application startup complete.
+2025-03-15 22:17:44 | INFO     | uvicorn.lifespan.on:startup:62 - Application startup complete.
+2025-03-15 22:25:15 | INFO     | uvicorn.server:shutdown:263 - Shutting down
+2025-03-15 22:25:15 | INFO     | uvicorn.server:shutdown:263 - Shutting down
+2025-03-15 22:25:15 | INFO     | uvicorn.lifespan.on:shutdown:67 - Waiting for application shutdown.
+2025-03-15 22:25:15 | INFO     | uvicorn.lifespan.on:shutdown:67 - Waiting for application shutdown.
+2025-03-15 22:25:15 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2025-03-15 22:25:15 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2025-03-15 22:25:15 | INFO     | uvicorn.server:_serve:93 - Finished server process [10988]
+2025-03-15 22:25:15 | INFO     | uvicorn.server:_serve:93 - Finished server process [10988]
+2025-03-15 22:25:16 | INFO     | uvicorn.server:_serve:83 - Started server process [17612]
+2025-03-15 22:25:16 | INFO     | uvicorn.server:_serve:83 - Started server process [17612]
+2025-03-15 22:25:16 | INFO     | uvicorn.lifespan.on:startup:48 - Waiting for application startup.
+2025-03-15 22:25:16 | INFO     | uvicorn.lifespan.on:startup:48 - Waiting for application startup.
+2025-03-15 22:25:16 | INFO     | uvicorn.lifespan.on:startup:62 - Application startup complete.
+2025-03-15 22:25:16 | INFO     | uvicorn.lifespan.on:startup:62 - Application startup complete.
+2025-03-15 22:25:52 | INFO     | uvicorn.server:shutdown:263 - Shutting down
+2025-03-15 22:25:52 | INFO     | uvicorn.server:shutdown:263 - Shutting down
+2025-03-15 22:25:52 | INFO     | uvicorn.lifespan.on:shutdown:67 - Waiting for application shutdown.
+2025-03-15 22:25:52 | INFO     | uvicorn.lifespan.on:shutdown:67 - Waiting for application shutdown.
+2025-03-15 22:25:52 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2025-03-15 22:25:52 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2025-03-15 22:25:52 | INFO     | uvicorn.server:_serve:93 - Finished server process [17612]
+2025-03-15 22:25:52 | INFO     | uvicorn.server:_serve:93 - Finished server process [17612]
+2025-03-15 22:25:54 | INFO     | uvicorn.server:_serve:83 - Started server process [10992]
+2025-03-15 22:25:54 | INFO     | uvicorn.server:_serve:83 - Started server process [10992]
+2025-03-15 22:25:54 | INFO     | uvicorn.lifespan.on:startup:48 - Waiting for application startup.
+2025-03-15 22:25:54 | INFO     | uvicorn.lifespan.on:startup:48 - Waiting for application startup.
+2025-03-15 22:25:54 | INFO     | uvicorn.lifespan.on:startup:62 - Application startup complete.
+2025-03-15 22:25:54 | INFO     | uvicorn.lifespan.on:startup:62 - Application startup complete.
+2025-03-15 22:25:54 | ERROR    | uvicorn.lifespan.on:send:134 - Traceback (most recent call last):
+  File "C:\Users\ASUS\AppData\Local\Programs\Python\Python39\lib\asyncio\runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "C:\Users\ASUS\AppData\Local\Programs\Python\Python39\lib\asyncio\base_events.py", line 629, in run_until_complete
+    self.run_forever()
+  File "C:\Users\ASUS\AppData\Local\Programs\Python\Python39\lib\asyncio\base_events.py", line 596, in run_forever
+    self._run_once()
+  File "C:\Users\ASUS\AppData\Local\Programs\Python\Python39\lib\asyncio\base_events.py", line 1890, in _run_once
+    handle._run()
+  File "C:\Users\ASUS\AppData\Local\Programs\Python\Python39\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\ASUS\AppData\Local\Programs\Python\Python39\lib\site-packages\uvicorn\server.py", line 70, in serve
+    await self._serve(sockets)
+  File "C:\Users\ASUS\AppData\Local\Programs\Python\Python39\lib\contextlib.py", line 124, in __exit__
+    next(self.gen)
+  File "C:\Users\ASUS\AppData\Local\Programs\Python\Python39\lib\site-packages\uvicorn\server.py", line 330, in capture_signals
+    signal.raise_signal(captured_signal)
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ASUS\AppData\Local\Programs\Python\Python39\lib\site-packages\starlette\routing.py", line 699, in lifespan
+    await receive()
+  File "C:\Users\ASUS\AppData\Local\Programs\Python\Python39\lib\site-packages\uvicorn\lifespan\on.py", line 137, in receive
+    return await self.receive_queue.get()
+  File "C:\Users\ASUS\AppData\Local\Programs\Python\Python39\lib\asyncio\queues.py", line 166, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+2025-03-15 22:25:54 | ERROR    | uvicorn.lifespan.on:send:134 - Traceback (most recent call last):
+  File "C:\Users\ASUS\AppData\Local\Programs\Python\Python39\lib\asyncio\runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "C:\Users\ASUS\AppData\Local\Programs\Python\Python39\lib\asyncio\base_events.py", line 629, in run_until_complete
+    self.run_forever()
+  File "C:\Users\ASUS\AppData\Local\Programs\Python\Python39\lib\asyncio\base_events.py", line 596, in run_forever
+    self._run_once()
+  File "C:\Users\ASUS\AppData\Local\Programs\Python\Python39\lib\asyncio\base_events.py", line 1890, in _run_once
+    handle._run()
+  File "C:\Users\ASUS\AppData\Local\Programs\Python\Python39\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\ASUS\AppData\Local\Programs\Python\Python39\lib\site-packages\uvicorn\server.py", line 70, in serve
+    await self._serve(sockets)
+  File "C:\Users\ASUS\AppData\Local\Programs\Python\Python39\lib\contextlib.py", line 124, in __exit__
+    next(self.gen)
+  File "C:\Users\ASUS\AppData\Local\Programs\Python\Python39\lib\site-packages\uvicorn\server.py", line 330, in capture_signals
+    signal.raise_signal(captured_signal)
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ASUS\AppData\Local\Programs\Python\Python39\lib\site-packages\starlette\routing.py", line 699, in lifespan
+    await receive()
+  File "C:\Users\ASUS\AppData\Local\Programs\Python\Python39\lib\site-packages\uvicorn\lifespan\on.py", line 137, in receive
+    return await self.receive_queue.get()
+  File "C:\Users\ASUS\AppData\Local\Programs\Python\Python39\lib\asyncio\queues.py", line 166, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+2025-03-15 22:25:55 | INFO     | uvicorn.server:_serve:83 - Started server process [20212]
+2025-03-15 22:25:55 | INFO     | uvicorn.server:_serve:83 - Started server process [20212]
+2025-03-15 22:25:55 | INFO     | uvicorn.lifespan.on:startup:48 - Waiting for application startup.
+2025-03-15 22:25:55 | INFO     | uvicorn.lifespan.on:startup:48 - Waiting for application startup.
+2025-03-15 22:25:55 | INFO     | uvicorn.lifespan.on:startup:62 - Application startup complete.
+2025-03-15 22:25:55 | INFO     | uvicorn.lifespan.on:startup:62 - Application startup complete.
+2025-03-15 22:26:02 | INFO     | uvicorn.server:shutdown:263 - Shutting down
+2025-03-15 22:26:02 | INFO     | uvicorn.server:shutdown:263 - Shutting down
+2025-03-15 22:26:02 | INFO     | uvicorn.lifespan.on:shutdown:67 - Waiting for application shutdown.
+2025-03-15 22:26:02 | INFO     | uvicorn.lifespan.on:shutdown:67 - Waiting for application shutdown.
+2025-03-15 22:26:02 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2025-03-15 22:26:02 | INFO     | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2025-03-15 22:26:02 | INFO     | uvicorn.server:_serve:93 - Finished server process [20212]
+2025-03-15 22:26:02 | INFO     | uvicorn.server:_serve:93 - Finished server process [20212]
+2025-03-15 22:26:04 | INFO     | uvicorn.server:_serve:83 - Started server process [22928]
+2025-03-15 22:26:04 | INFO     | uvicorn.server:_serve:83 - Started server process [22928]
+2025-03-15 22:26:04 | INFO     | uvicorn.lifespan.on:startup:48 - Waiting for application startup.
+2025-03-15 22:26:04 | INFO     | uvicorn.lifespan.on:startup:48 - Waiting for application startup.
+2025-03-15 22:26:04 | WARNING  | main:startup_event:65 - No ADMIN_API_KEY found in environment. Generated new admin key: ak-88e92eeae1634bb3a4122e6cbdbc3aa7
+2025-03-15 22:26:04 | WARNING  | main:startup_event:66 - Please set this key in your .env file as ADMIN_API_KEY=ak-88e92eeae1634bb3a4122e6cbdbc3aa7
+2025-03-15 22:26:04 | INFO     | uvicorn.lifespan.on:startup:62 - Application startup complete.
+2025-03-15 22:26:04 | INFO     | uvicorn.lifespan.on:startup:62 - Application startup complete.
